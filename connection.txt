@@ -1,0 +1,4 @@
+localhost
+root
+anusha@123
+e_auction
